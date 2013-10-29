@@ -4,7 +4,7 @@
 Puts an unhappy face in your tab title if it is using your CPU
 
 ## Requirements
-* Chrome dev channel
+* [Chrome dev channel](http://www.chromium.org/getting-involved/dev-channel)
 
 ## Installation
 1. Download the .crx file from the website and save it to your computer.
